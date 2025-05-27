@@ -1,3 +1,3 @@
 # github-action test
 
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://github.com/otsurob/actions-test/actions/workflows/build-and-test.yml/badge.svg)
